@@ -1,1 +1,3 @@
 Latihan git tambahan di terminal vs code
+
+Tambahin baris kedua
